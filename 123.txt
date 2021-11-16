@@ -7,3 +7,4 @@
 提交到缓存区，不同步到仓库1
 不同步到仓库2
 bu tongbu de dongxi 
+从git仓库到jekins自动部署
